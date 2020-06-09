@@ -410,13 +410,10 @@ strong {
 
 .footer{
     color: black;
-    position:absolute;
-    padding-top:50%;
-    height:100vh;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%)
-    font-size:1.7rem;
+    font-size:1rem;
+    width:1200px;
+    margin:0 auto;
+    padding:5rem 0
 }
 
 .text-white{
